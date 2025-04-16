@@ -1,7 +1,8 @@
-# 🚀 Space Invader Game　Example (Pyxel Edition)
+# 🚀 Space Invader Game Example (Pyxel Edition)
 
 This project is a classic **Space Invader game** built using Python and the [Pyxel](https://github.com/kitao/pyxel) library.  
 Control your spaceship using the mouse and shoot down the aliens before they reach your line!
+Created by kyopan
 
 ---
 
