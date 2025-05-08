@@ -1,0 +1,14 @@
+import pyxel
+
+pyxel.init(200, 200)
+pyxel.cls(7)
+for a in range(10, 200, 20):
+    if a <= 40:
+        pyxel.circ(a, 10, 10, 2)
+    elif (40 < a) and (a <= 100):
+        pyxel.circ(a, 10, 10, 3)
+    elif (100 < a) and (a <= 160):
+        pyxel.circ(a, 10, 10, 6)
+    elif 160 < a:
+        pyxel.circ(a, 10, 10, 14)
+pyxel.show()

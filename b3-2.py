@@ -1,0 +1,15 @@
+import pyxel
+
+pyxel.init(200, 200)
+pyxel.cls(7)
+pyxel.circ(10, 10, 10, 0)
+pyxel.circ(30, 10, 10, 0)
+pyxel.circ(50, 10, 10, 0)
+pyxel.circ(70, 10, 10, 0)
+pyxel.circ(90, 10, 10, 0)
+pyxel.circ(110, 10, 10, 0)
+pyxel.circ(130, 10, 10, 0)
+pyxel.circ(150, 10, 10, 0)
+pyxel.circ(170, 10, 10, 0)
+pyxel.circ(190, 10, 10, 0)
+pyxel.show()
