@@ -29,12 +29,12 @@ pyxel.init(200, 200, fps=30)
 pyxel.mouse(True)
 
 # Game parameters
-initial_speed        = 1.0   # base speed to reset on level up
-speed                = initial_speed
-score                = 0     # caught ball count
-misses               = 0     # missed ball count
-game_over            = False # end flag
-next_level_up_score  = 10    # threshold to add new ball
+initial_speed = 1.0          # base speed to reset on level up
+speed = initial_speed        # current speed multiplier
+score = 0                    # caught ball count
+misses = 0                   # missed ball count
+game_over = False            # end flag
+next_level_up_score = 10     # threshold to add new ball
 
 class Ball:
     """A single falling ball with its own position and velocity."""

@@ -2,7 +2,7 @@
 # File:    e11-1_ex.py
 # Project: FIT2 2025
 # Author:  Kyopan
-# Date:    2025-05-08
+# Date:    2025-05-21
 #
 # Description:
 #   Enhanced paddle game with bullets and colored balls.

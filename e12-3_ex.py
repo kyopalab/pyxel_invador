@@ -1,8 +1,8 @@
 # -----------------------------------------------------------------------------
-# File:    e10-4.py
+# File:    e12-3_ex.py
 # Project: FIT2 2025
 # Author:  Kyopan
-# Date:    2025-05-08
+# Date:    2025-05-21
 #
 # Description:
 #   Enhanced paddle game with bullets and colored balls.
@@ -11,7 +11,7 @@
 #   Levels add new balls every 10 catches; 10 misses ends the game.
 #
 # Usage:
-#   pyxel run e10-4.py
+#   pyxel run e12-3_ex.py
 #
 # Controls:
 #   - Mouse: Move paddle horizontally
